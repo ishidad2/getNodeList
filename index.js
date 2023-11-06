@@ -1,7 +1,7 @@
 import axios from "axios";
 import fs from 'fs';
 
-// // メインネット設定
+// メインネット設定
 const _peer_url = "https://symbol.services/nodes?filter=suggested&ssl=true&limit=2000";
 const NETWORK_IDENTIFIER = 104;
 
