@@ -9,7 +9,7 @@ $ npm install
 ## 実行
 
 ```
-$ node inde.js
+$ node index.js
 ```
 
 実行するとjp_nodes.jsというファイルが生成されます。
